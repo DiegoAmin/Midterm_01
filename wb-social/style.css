@@ -1,0 +1,144 @@
+
+body{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 15px;
+    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+    background-position: left top, center bottom;
+    background-repeat: no-repeat, no-repeat;
+    
+}
+div.d1 {
+    font-size: 20px;
+    color: #502050;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    font-weight:700;
+    
+}
+p.p1{
+    font-size: 15px;
+    font-weight: 400;
+    color: #937b92;
+    text-align: left;
+    line-height: 1.5;
+
+}
+div.d21{
+    display: inline-block;
+    color: #502050;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 90px;
+    left: 900px;
+}
+div.d22{
+    color: #502050;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 160px;
+    left: 940px;
+}
+div.d23{
+    color: #502050;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 230px;
+    left: 980px;
+}
+h3.h1{
+    margin: a;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    height: 10px;
+    width: 350px;
+    font-size: 13px;
+    border-radius: 10px;
+    background-color: #f7f2f7;
+}
+div.d3{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    background-color: #502050;
+    border-radius: 10px;
+    padding: 10px;
+}
+h4.h2{
+    position: absolute;
+    top: 20px;
+    left: 85px;
+    color: #f7f2f7;
+}
+h5{
+    position: absolute;
+    top: 40px;
+    left: 86px;
+    color:#ee68a4 ;
+    font-weight: 400;
+}
+p.p2{
+    font-weight: 400;
+    color: #937b92;
+    font-size: 14px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    text-align: left;
+    line-height: 1.5;
+}
+img.m1{
+    position: relative;
+    top: 25px;
+    left: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+}
+div.d4{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    top: 370px;
+    left: 670px;
+    background-color: #502050;
+    color: #f7f2f7;
+    border-radius: 10px;
+    padding: 10px;
+}
+img.m2{
+    position: relative;
+    top: 25px;
+    left: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+div.d5{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    top: 390px;
+    left: 1040px;
+    background-color: #502050;
+    color: #f7f2f7;
+    border-radius: 10px;
+    padding: 10px;
+}
+img.m3{
+    position: relative;
+    top: 25px;
+    left: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
